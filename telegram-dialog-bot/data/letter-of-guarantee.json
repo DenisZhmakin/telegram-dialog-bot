@@ -1,0 +1,32 @@
+[
+  {
+    "step": "step1",
+    "template_var": "partner_director_fullname",
+    "description": "Введите ФИО директора партнерской компании:",
+    "value": ""
+  },
+  {
+    "step": "step2",
+    "template_var": "own_company_name",
+    "description": "Введите название компании, в которой вы работаете:",
+    "value": ""
+  },
+  {
+    "step": "step3",
+    "template_var": "dept_amount",
+    "description": "Введите сумму задолженности, в рублях:",
+    "value": ""
+  },
+  {
+    "step": "step4",
+    "template_var": "contract_number",
+    "description": "Введите номер договора:",
+    "value": ""
+  },
+  {
+    "step": "step5",
+    "template_var": "company_head_position",
+    "description": "Введите должность руководителя организации:",
+    "value": ""
+  }
+]

@@ -3,11 +3,11 @@ from typing import Optional
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 main_keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
-main_keyboard.add(KeyboardButton(text="Предложение о расширении сотрудничества"))
-main_keyboard.add(KeyboardButton(text="Письмо потенциальному клиенту по проекту"))
-main_keyboard.add(KeyboardButton(text="Формирование напоминания о дедлайне для сотрудника"))
-main_keyboard.add(KeyboardButton(text="Наем нового сотрудника в компанию"))
-main_keyboard.add(KeyboardButton(text="Запрос подсказок и дополнительной помощи"))
+main_keyboard.add(KeyboardButton(text="Формирование предложения о сотрудничестве"))
+main_keyboard.add(KeyboardButton(text="Формирование гарантийного письма от организации"))
+# main_keyboard.add(KeyboardButton(text="Формирование напоминания о дедлайне для сотрудника"))
+# main_keyboard.add(KeyboardButton(text="Наем нового сотрудника в компанию"))
+# main_keyboard.add(KeyboardButton(text="Запрос подсказок и дополнительной помощи"))
 
 
 def create_arrows_keyboard(placeholder: Optional[str] = None):
