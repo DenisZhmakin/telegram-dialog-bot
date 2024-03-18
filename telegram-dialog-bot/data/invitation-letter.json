@@ -1,0 +1,38 @@
+[
+  {
+    "step": "step1",
+    "template_var": "guest_fullname",
+    "description": "Введите ФИО претендента на работу:",
+    "value": ""
+  },
+  {
+    "step": "step2",
+    "template_var": "company_name",
+    "description": "Введите название вашей компании:",
+    "value": ""
+  },
+  {
+    "step": "step3",
+    "template_var": "company_director",
+    "description": "Введите ФИО директора вашей компании:",
+    "value": ""
+  },
+  {
+    "step": "step4",
+    "template_var": "event_address",
+    "description": "Введите адрес проводимого мероприятия:",
+    "value": ""
+  },
+  {
+    "step": "step5",
+    "template_var": "event_date",
+    "description": "Введите дату проводимого мероприятия:",
+    "value": ""
+  },
+  {
+    "step": "step6",
+    "template_var": "event_time",
+    "description": "Введите время проводимого мероприятия:",
+    "value": ""
+  }
+]

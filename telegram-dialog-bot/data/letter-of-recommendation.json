@@ -1,0 +1,38 @@
+[
+  {
+    "step": "step1",
+    "template_var": "employee_fullname",
+    "description": "Введите полное ФИО сотрудника:",
+    "value": ""
+  },
+  {
+    "step": "step2",
+    "template_var": "employee_position",
+    "description": "Введите должность сотрудника:",
+    "value": ""
+  },
+  {
+    "step": "step3",
+    "template_var": "work_start_date",
+    "description": "Введите дату начала работы сотрудника:",
+    "value": ""
+  },
+  {
+    "step": "step4",
+    "template_var": "work_stop_date",
+    "description": "Введите дату увольнения сотрудника:",
+    "value": ""
+  },
+  {
+    "step": "step5",
+    "template_var": "company_director",
+    "description": "Введите ФИО директора компании:",
+    "value": ""
+  },
+  {
+    "step": "step6",
+    "template_var": "company_name",
+    "description": "Введите название вашей компании:",
+    "value": ""
+  }
+]

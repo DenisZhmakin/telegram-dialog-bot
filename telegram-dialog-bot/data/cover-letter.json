@@ -1,0 +1,38 @@
+[
+  {
+    "step": "step1",
+    "template_var": "partner_company",
+    "description": "Введите название компании:",
+    "value": ""
+  },
+  {
+    "step": "step2",
+    "template_var": "company_director",
+    "description": "Введите ФИО директора компании:",
+    "value": ""
+  },
+  {
+    "step": "step3",
+    "template_var": "declarant_name",
+    "description": "Введите полное ФИО заявителя:",
+    "value": ""
+  },
+  {
+    "step": "step4",
+    "template_var": "declarant_address",
+    "description": "Введите адрес заявителя:",
+    "value": ""
+  },
+  {
+    "step": "step5",
+    "template_var": "declarant_phone",
+    "description": "Введите мобильный номер заявителя:",
+    "value": ""
+  },
+  {
+    "step": "step6",
+    "template_var": "declarant_email",
+    "description": "Введите email заявителя:",
+    "value": ""
+  }
+]

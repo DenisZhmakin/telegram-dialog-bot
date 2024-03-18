@@ -1,0 +1,32 @@
+[
+  {
+    "step": "step1",
+    "template_var": "partner_address",
+    "description": "Введите адрес партнерской компании:",
+    "value": ""
+  },
+  {
+    "step": "step2",
+    "template_var": "partner_name",
+    "description": "Введите название партнерской компании:",
+    "value": ""
+  },
+  {
+    "step": "step3",
+    "template_var": "partner_director",
+    "description": "Введите ФИО директору партнерской компании:",
+    "value": ""
+  },
+  {
+    "step": "step4",
+    "template_var": "director_fio",
+    "description": "Введите ФИО директора вашей компании:",
+    "value": ""
+  },
+  {
+    "step": "step5",
+    "template_var": "letter_num",
+    "description": "Введите номер письма:",
+    "value": ""
+  }
+]

@@ -5,9 +5,10 @@ from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 main_keyboard = ReplyKeyboardMarkup(resize_keyboard=True)
 main_keyboard.add(KeyboardButton(text="Формирование предложения о сотрудничестве"))
 main_keyboard.add(KeyboardButton(text="Формирование гарантийного письма от организации"))
-# main_keyboard.add(KeyboardButton(text="Формирование напоминания о дедлайне для сотрудника"))
-# main_keyboard.add(KeyboardButton(text="Наем нового сотрудника в компанию"))
-# main_keyboard.add(KeyboardButton(text="Запрос подсказок и дополнительной помощи"))
+main_keyboard.add(KeyboardButton(text="Формирование рекомендательного письма для сотрудника"))
+main_keyboard.add(KeyboardButton(text="Формирование письма подтверждения от компании"))
+main_keyboard.add(KeyboardButton(text="Формирование сопроводительного письма"))
+main_keyboard.add(KeyboardButton(text="Формирование письма приглашения"))
 
 
 def create_arrows_keyboard(placeholder: Optional[str] = None):
